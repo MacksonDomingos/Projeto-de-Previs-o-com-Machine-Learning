@@ -1,6 +1,6 @@
 # 📊 Previsão de Score de Crédito com Machine Learning
 
-Este projeto foi desenvolvido para automatizar o processo de análise de crédito de clientes utilizando técnicas de **Ciência de Dados** e **Machine Learning**. Através de uma base de dados com 100 mil registros, o modelo identifica padrões e classifica o score de crédito em três categorias: **Poor**, **Standard** ou **Good**.
+Este projeto foi desenvolvido para automatizar o processo de análise de crédito de clientes utilizando técnicas de **Ciência de Dados** e **Machine Learning**. Através de uma base de dados com 100 mil registros, o modelo identifica padrões e classifica o score de crédito em três categorias: **Poor(pobre)**, **Standard(regular)** ou **Good(bom)**.
 
 ## 🚀 Objetivo
 O foco principal foi criar um fluxo de dados (pipeline) que pudesse receber dados brutos de novos clientes e retornar uma previsão precisa, auxiliando na tomada de decisão financeira.
